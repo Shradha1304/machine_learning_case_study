@@ -18,9 +18,16 @@ ENV/
 mitdb-*/
 **/mitdb-*/
 
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
 # OS & Editor files
 .DS_Store
 Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
