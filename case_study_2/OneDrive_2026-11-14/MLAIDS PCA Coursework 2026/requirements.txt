@@ -1,0 +1,8 @@
+pyvista
+numpy
+scikit-learn
+matplotlib
+ipython
+trame
+pyvista[jupyter]
+imageio
